@@ -4,8 +4,9 @@
 <h3>СПРАВОЧНИК</h3>
 <h4>GULP</h4>
 <p>$ npm i<br>
-npm i browser-sync -d<br>
+$ npm i browser-sync -d<br>
 $ gulp
+$ git fetch origin master
 </p>
 <h4>GIT</h4>
 <p>$ git clone ...<br>
