@@ -5,7 +5,7 @@
 <h4>GULP</h4>
 <p>$ npm i<br>
 $ npm i browser-sync -d<br>
-$ gulp
+$ gulp<br>
 $ git fetch origin master
 </p>
 <h4>GIT</h4>
