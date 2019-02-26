@@ -4,6 +4,7 @@
 <h3>СПРАВОЧНИК</h3>
 <h4>GULP</h4>
 <p>$ npm i<br>
+npm i browser-sync -d<br>
 $ gulp
 </p>
 <h4>GIT</h4>
