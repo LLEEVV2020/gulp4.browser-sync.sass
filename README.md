@@ -3,7 +3,9 @@
 <br><br>
 <h3>СПРАВОЧНИК</h3>
 <h4>GULP</h4>
-<p>npm i</p>
+<p>npm i<br>
+gulp
+</p>
 <h4>GIT</h4>
 <p>git clone ...<br>
 cd scroll_custom<br>
